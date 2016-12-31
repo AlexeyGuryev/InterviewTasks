@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("InterviewTasks")]
+[assembly: AssemblyTitle("Singleton")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard Company")]
-[assembly: AssemblyProduct("InterviewTasks")]
+[assembly: AssemblyProduct("Singleton")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("68e88090-4aec-4ad5-a90d-e3e69062ca0e")]
+[assembly: Guid("72966283-ac57-4b4a-88de-83d9246b3cc7")]
 
 // Version information for an assembly consists of the following four values:
 //
